@@ -1,7 +1,7 @@
 # Blockchain (Java)
 
-Модель блокчейна. При запуске виден процесс транзакций и майнинга.
+Model of blockchain showing the process of transactions handling and mining.
 
-Используется криптография и асинхронное программирование.
+Using cryptography and parallel programming.
 
 ![](video.gif)
